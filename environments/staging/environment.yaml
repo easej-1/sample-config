@@ -84,3 +84,4 @@ app:
   #- name: "my Db2 instance"
   #  type: dashdb-for-transactions
   # test
+  #trigger cofig validation
